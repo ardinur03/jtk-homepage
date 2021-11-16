@@ -160,7 +160,15 @@ nav img {
 
 .contact-section {
     margin-top: 100px;
-    padding-top: 45px;
+    padding-top: 40px;
+}
+
+.contact-section h1 {
+    color: #fff;
+}
+
+.content-contact {
+    margin: 50px 150px;
 }
 
 footer {
@@ -230,4 +238,13 @@ footer {
 .align-item-center {
     text-align: left;
     margin-top: 90px;
+}
+
+.card {
+    display: flex;
+    background-color: rgba(189, 187, 187, 0.597);
+    border-radius: 20px;
+    border: #dfdfdf solid;
+    padding: 20px;
+    box-shadow: 2px 7px 15px 1px #d4d4d4;
 }
