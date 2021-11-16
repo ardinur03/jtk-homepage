@@ -172,13 +172,16 @@ nav img {
 }
 
 footer {
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 60px;
-    background-color: #dadada;
+    background-color: #0e2431;
     color: rgb(0, 0, 0);
     text-align: center;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+footer a {
+    color: #0367cf;
 }
 
 
@@ -247,4 +250,8 @@ footer {
     border: #dfdfdf solid;
     padding: 20px;
     box-shadow: 2px 7px 15px 1px #d4d4d4;
+}
+
+.text-decoration-none {
+    text-decoration: none;
 }
